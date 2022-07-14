@@ -1,5 +1,5 @@
 # TicTacToe App
-> Live demo [Coming Soon](). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [here](https://play.google.com/store/apps/details?id=com.tictactoe_app). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Technologies Used
 - React Native
