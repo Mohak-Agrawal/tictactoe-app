@@ -19,12 +19,6 @@ const SplashScreen = () => {
         resizeMode="cover"
         style={{height: 300, width: 300}}
       />
-      <View style={styles.col}>
-        <Text style={{...FONTS.body3, color: COLORS.black}}>
-          Designed & Developed by{' '}
-        </Text>
-        <Text style={{...FONTS.body3, color: COLORS.black}}>Mohak Agrawal</Text>
-      </View>
     </View>
   ) : (
     <AppStack />

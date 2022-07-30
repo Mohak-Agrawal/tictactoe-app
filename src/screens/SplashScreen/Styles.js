@@ -6,8 +6,7 @@ export default StyleSheet.create({
     flex: 1,
     backgroundColor: COLORS.white,
     alignItems: 'center',
-    justifyContent: 'space-between',
-    paddingVertical: 80,
+    justifyContent: 'center',
   },
   col: {
     alignItems: 'center',
